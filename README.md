@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a computer engineering student at IAU.<br>I try to update myself as a full-stack developer every day.<br>I use React.js for the front-end and Node.js for the back-end, and Mongo.db for database.<br>I am currently working as a front-end (React.js) developer.<br>
+I am currently a computer engineering student at IAU (Islamic Azad University) .<br>I try to update myself as a full-stack developer every day.<br>I use React.js for the front-end and Node.js for the back-end, and Mongo.db for database.<br>I am currently working as a front-end (React.js) developer.<br>
 
 
 ## 🌐 Socials:
