@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a computer engineering student.<br>I try to update myself as a full-stack (React.js) programmer every day.<br>I am currently working as a front-end programmer,<br>But I am more interested in back-end (Node.js).
+I am currently a computer engineering student.<br>I try to update myself as a full-stack (React.js) programmer every day.<br>I am currently working as a front-end programmer,<br>
 
 
 ## 🌐 Socials:
