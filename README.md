@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a computer engineering student at IAU ( Islamic Azad University ) .<br>I am a MERN Stack Web Developer I try to update myself every day.
+I'm currently a computer engineering student at IAU ( Islamic Azad University ) .<br>I'm MERN Stack Web Developer I try to update myself every day.
 
 
 ## 🌐 Socials:
