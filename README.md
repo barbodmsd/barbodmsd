@@ -16,6 +16,7 @@ I'm currently a computer engineering student at IAU ( Islamic Azad University ) 
 ![](https://github-contributor-stats.vercel.app/api?username=barbodmsd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=barbodmsd&icon=2&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=barbodmsd&icon=4&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
