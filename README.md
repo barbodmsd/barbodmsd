@@ -6,8 +6,6 @@ I'm <b>Barbod Masoudi</b>, a MERN-Stack JavaScript Developer with experience acr
 
 <h2 align="left">About me</h2>
 <p align="left">
-I’m a MERN-Stack JavaScript Developer with experience working across both front-end and back-end layers of web applications.
-<br><br>
 I approach development with a strong focus on problem-solving, clear thinking, and understanding the broader context of a system rather than just individual features. I enjoy breaking down complex problems and working through them in a structured and thoughtful way.
 <br><br>
 I value collaboration and clear communication, and I’m comfortable working in team-based environments where ideas are shared, discussed, and refined. I believe good software is built through teamwork, continuous learning, and attention to long-term maintainability.
