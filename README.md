@@ -20,7 +20,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite)]()
 
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastify)]()
 
 #### Database
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
