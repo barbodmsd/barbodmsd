@@ -17,13 +17,13 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)]()
 
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,ejs)]()
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite)]()
 
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastify)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
 #### Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,mariadb,postgresql)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
 
 
 ---
