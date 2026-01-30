@@ -23,7 +23,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
 #### Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,mariadb,postgres,sqlite)]()
 
 
 ---
