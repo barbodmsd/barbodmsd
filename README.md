@@ -14,7 +14,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
 <h2 align="left">My Skills</h2>
 
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts)]()
+[![My Skills](https://skillicons.dev/icons?i=js,ts,ejs)]()
 
 #### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite)]()
