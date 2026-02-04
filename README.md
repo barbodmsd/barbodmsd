@@ -25,6 +25,8 @@ I value collaboration and clear communication, and I’m comfortable working in 
 #### Database
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]()
 
+#### Caching & Messaging
+[![My Skills](https://skillicons.dev/icons?i=redis)]()
 
 ---
 
