@@ -22,13 +22,13 @@ I value collaboration and clear communication, and I’m comfortable working in 
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
-#### Database
+#### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]()
 
-#### Caching & Messaging
+#### Cache
 [![My Skills](https://skillicons.dev/icons?i=redis)]()
 
-#### Message Queues & Streaming
+#### Queue & Streaming
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka)]()
 
 
