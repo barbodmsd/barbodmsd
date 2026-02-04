@@ -28,6 +28,10 @@ I value collaboration and clear communication, and I’m comfortable working in 
 #### Caching & Messaging
 [![My Skills](https://skillicons.dev/icons?i=redis)]()
 
+#### Message Queues & Streaming
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka)]()
+
+
 ---
 
 ### 🤝 Connect with Me
