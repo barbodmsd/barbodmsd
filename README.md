@@ -25,7 +25,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
 ### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
 <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg"
   width="40"
@@ -38,7 +38,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
   "
   alt=""
 />
- 
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)]()
 
 ### 🚀 Caching & Performance
 [![My Skills](https://skillicons.dev/icons?i=redis)]()
@@ -47,18 +47,6 @@ I value collaboration and clear communication, and I’m comfortable working in 
 <p style="margin-left:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png?20200308235956" height="40" style="padding:5px; background:#7daff5b0; border-radius:12px;" alt="Socket.io logo" />
 </p>
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg"
-  width="40"
-  height="40"
-  style="
-    background:#2b2b2b;
-    padding:6px;
-    border-radius:12px;
-    box-sizing:border-box;
-  "
-  alt="Socket.io"
-/>
 
 ### 📬 Messaging & Streaming
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka)]()
