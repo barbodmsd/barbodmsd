@@ -25,10 +25,13 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
 ### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]() <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg"
-       height="28" style="vertical-align:middle;" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]() <img
+  src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg"
+  height="28"
+  style="vertical-align:middle;"
+  alt="Socket.io"
+/>
+ 
 
 ### 🚀 Caching & Performance
 [![My Skills](https://skillicons.dev/icons?i=redis)]()
