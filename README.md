@@ -19,44 +19,35 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)]()
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite)]()
+[![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs)]()
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]() 
-
- <span 
- style="
-    background:#3d3d3d;
-    padding:6px;
-    border-radius:12px;
-    box-sizing:border-box;
-  "
->
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg"
-  width="45"
-  height="45"
-  style="
-    background:#3d3d3d;
-    padding:6px;
-    border-radius:12px;
-    box-sizing:border-box;
-  "
-  alt="Mariadb logo"
-/>
-</span>
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg"
+      height="45"
+      width="45"
+      style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
+      alt="MariaDB logo"
+    />
+    [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)]()
+    
+### Real-Time Communication
+   <p style="margin-left: 15px">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png?20200308235956"
+        height="45"
+        width="45"
+        style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
+        alt="Socket.io logo"
+      />
+    </p>
 
 ### Caching & Performance
 [![My Skills](https://skillicons.dev/icons?i=redis)]()
-
-### Realtime Communication
-<p style="margin-left:15px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png?20200308235956" height="40" style="padding:5px; background:#7daff5b0; border-radius:12px;" alt="Socket.io logo" />
-</p>
 
 ### Messaging & Streaming
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka)]()
