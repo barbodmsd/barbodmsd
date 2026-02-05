@@ -25,8 +25,14 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
 ### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]()
-
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]() <p style="margin-left:15px;">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg"
+    height="40"
+    style="padding:5px; background:#7daff5b0; border-radius:12px;"
+    alt="MariaDB logo"
+  />
+</p>
 ### 🚀 Caching & Performance
 [![My Skills](https://skillicons.dev/icons?i=redis)]()
 
