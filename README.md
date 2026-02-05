@@ -27,7 +27,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
 <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg"
   width="40"
   height="40"
   style="
