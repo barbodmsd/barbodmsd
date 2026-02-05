@@ -27,11 +27,11 @@ I value collaboration and clear communication, and I’m comfortable working in 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]()
 <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg"
   width="40"
   height="40"
   style="
-    background-color:#1e1e1e;
+    background:#2b2b2b;
     padding:6px;
     border-radius:12px;
     box-sizing:border-box;
@@ -52,7 +52,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
   width="40"
   height="40"
   style="
-    background-color:#1e1e1e;
+    background:#2b2b2b;
     padding:6px;
     border-radius:12px;
     box-sizing:border-box;
