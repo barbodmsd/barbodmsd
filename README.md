@@ -28,15 +28,15 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
 <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg"
-  width="40"
-  height="40"
+  width="45"
+  height="45"
   style="
-    background:#2b2b2b;
+    background:#3d3d3d;
     padding:6px;
     border-radius:12px;
     box-sizing:border-box;
   "
-  alt=""
+  alt="Mariadb logo"
 />
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)]()
 
