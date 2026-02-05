@@ -26,6 +26,14 @@ I value collaboration and clear communication, and I’m comfortable working in 
 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
+<span 
+ style="
+    background:#3d3d3d;
+    padding:6px;
+    border-radius:12px;
+    box-sizing:border-box;
+  "
+>
 <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg"
   width="45"
@@ -38,6 +46,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
   "
   alt="Mariadb logo"
 />
+</span>
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)]()
 
 ### 🚀 Caching & Performance
