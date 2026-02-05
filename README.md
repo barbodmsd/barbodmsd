@@ -25,8 +25,8 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
 ### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
-<span 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]() 
+ <span 
  style="
     background:#3d3d3d;
     padding:6px;
