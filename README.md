@@ -1,42 +1,46 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-I'm <b>Barbod Masoudi</b>, a MERN-Stack JavaScript Developer with experience across both front-end and back-end development.
+I'm <b>Barbod Masoudi</b>, a <b>MERN Stack JavaScript Developer</b> with hands-on experience in both front-end and back-end development.
 </p>
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 <p align="left">
-I approach development with a strong focus on problem-solving, clear thinking, and understanding the broader context of a system rather than just individual features. I enjoy breaking down complex problems and working through them in a structured and thoughtful way.
+I approach software development with a strong focus on problem-solving, structured thinking, and understanding systems as a whole rather than isolated features.
 <br><br>
-I value collaboration and clear communication, and I’m comfortable working in team-based environments where ideas are shared, discussed, and refined. I believe good software is built through teamwork, continuous learning, and attention to long-term maintainability.
+I enjoy breaking down complex problems into manageable parts and designing solutions that are scalable, maintainable, and easy to reason about.
+<br><br>
+I value collaboration and clear communication, and I’m comfortable working in team-based environments where ideas are shared, reviewed, and refined. I believe high-quality software is built through teamwork, continuous learning, and long-term thinking.
 </p>
 
-<h2 align="left">My Skills</h2>
+<h2 align="left">Tech Stack & Skills</h2>
 
-#### Languages
+### 🧠 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts)]()
 
-#### Frontend
+### 🎨 Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite)]()
 
-#### Backend
+### ⚙️ Backend Development
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
-#### Databases
+### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]()
 
-#### Cache
+### 🚀 Caching & Performance
 [![My Skills](https://skillicons.dev/icons?i=redis)]()
 
-#### Queue & Streaming
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka)]()
+### 🔄 Realtime Communication
+[![My Skills](https://skillicons.dev/icons?i=socketio)]()
 
+### 📬 Messaging & Streaming
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka)]()
 
 ---
 
-### 🤝 Connect with Me
+<h3 align="left">🤝 Connect with Me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/barbodmsd?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+<a href="https://www.linkedin.com/in/barbodmsd" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="mailto:barbodmasoudi@gmail.com">
