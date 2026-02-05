@@ -15,17 +15,18 @@ I value collaboration and clear communication, and I’m comfortable working in 
 
 <h2 align="left">Tech Stack & Skills</h2>
 
-### 🧠 Programming Languages
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts)]()
 
-### 🎨 Frontend Development
+### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite)]()
 
-### ⚙️ Backend Development
+### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
-### 🗄️ Databases
+### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]() 
+
  <span 
  style="
     background:#3d3d3d;
@@ -49,15 +50,15 @@ I value collaboration and clear communication, and I’m comfortable working in 
 </span>
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)]()
 
-### 🚀 Caching & Performance
+### Caching & Performance
 [![My Skills](https://skillicons.dev/icons?i=redis)]()
 
-### 🔄 Realtime Communication
+### Realtime Communication
 <p style="margin-left:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png?20200308235956" height="40" style="padding:5px; background:#7daff5b0; border-radius:12px;" alt="Socket.io logo" />
 </p>
 
-### 📬 Messaging & Streaming
+### Messaging & Streaming
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka)]()
 
 ---
