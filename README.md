@@ -26,10 +26,10 @@ I value collaboration and clear communication, and I’m comfortable working in 
 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]() <img
-  src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg"
+  src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg"
   height="28"
   style="vertical-align:middle;"
-  alt="Socket.io"
+  alt="MariaDB"
 />
  
 
