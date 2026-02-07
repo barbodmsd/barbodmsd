@@ -25,7 +25,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]()
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg"
       height="45"
@@ -33,7 +33,6 @@ I value collaboration and clear communication, and I’m comfortable working in 
       style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
       alt="MariaDB logo"
     />
-    [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)]()
     
 ### Real-Time Communication
    <p style="margin-left: 15px">
