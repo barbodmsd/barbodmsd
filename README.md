@@ -46,11 +46,13 @@ I value collaboration and clear communication, and I’m comfortable working in 
       />
     </p>
 
+<!--  
 ### Caching & Performance
 [![My Skills](https://skillicons.dev/icons?i=redis)]()
 
 ### Messaging & Streaming
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka)]()
+-->
 
 ---
 
