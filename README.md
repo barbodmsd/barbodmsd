@@ -34,21 +34,30 @@ I value collaboration and clear communication, and I’m comfortable working in 
       alt="MariaDB logo"
     />
     
-### Real-Time Communication
-   <p style="margin-left: 15px">
-      <img
+### Real-Time communication
+   
+<img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png?20200308235956"
         height="45"
         width="45"
         style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
         alt="Socket.io logo"
       />
-    </p>
-
-<!--  
+    
 ### Caching & Performance
 [![My Skills](https://skillicons.dev/icons?i=redis)]()
 
+### Search & Analytics
+   <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"
+      height="45"
+      width="45"
+      style="padding: 5px; background: #242938; border-radius: 10px; box-sizing: border-box;"
+      alt="Elasticsearch logo"
+    />
+
+
+<!--  
 ### Messaging & Streaming
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka)]()
 -->
