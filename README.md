@@ -33,6 +33,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
       style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
       alt="MariaDB logo"
     />
+\n
 [![My Skills](https://skillicons.dev/icons?i=redis,elasticsearch)]()
     
 ### Real-Time communication
