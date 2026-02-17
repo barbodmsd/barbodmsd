@@ -48,13 +48,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=redis)]()
 
 ### Search & Analytics
-   <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"
-      height="45"
-      width="45"
-      style="padding: 5px; background: #242938; border-radius: 10px; box-sizing: border-box;"
-      alt="Elasticsearch logo"
-    />
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch)]()
 
 
 <!--  
