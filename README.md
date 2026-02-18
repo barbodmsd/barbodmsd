@@ -36,7 +36,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
     <div><div/>
 [![My Skills](https://skillicons.dev/icons?i=redis,elasticsearch)]()
     
-### Real-Time communication
+### Real-Time
    
 <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png?20200308235956"
@@ -45,13 +45,10 @@ I value collaboration and clear communication, and I’m comfortable working in 
         style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
         alt="Socket.io logo"
       />
-    
+      
+### Queue
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq)]()
 
-
-<!--  
-### Messaging & Streaming
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka)]()
--->
 
 ---
 
