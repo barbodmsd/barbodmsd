@@ -23,6 +23,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
+<-!
 <img
   src="https://api.barbodmsd.com/upload/file_1771499120103.png"
   width="60"
@@ -30,6 +31,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
   style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
   alt="Fastify logo"
 />
+->
 <img
   src="https://grpc.io/img/logos/grpc-icon-color.png"
   width="60"
