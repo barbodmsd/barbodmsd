@@ -23,13 +23,20 @@ I value collaboration and clear communication, and I’m comfortable working in 
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
+<img
+  src="https://grpc.io/img/logos/grpc-icon-color.png"
+  width="60"
+  height="60"
+     style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
+  alt="gRPC logo"
+/>
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]()
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg"
-      height="45"
-      width="45"
+      width="50"
+      height="60"
       style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
       alt="MariaDB logo"
     />
@@ -37,7 +44,6 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=redis,elasticsearch)]()
     
 ### Real-Time
-   
 <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png?20200308235956"
         height="45"
@@ -48,6 +54,8 @@ I value collaboration and clear communication, and I’m comfortable working in 
       
 ### Queue
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq)]()
+
+
 
 
 ---
