@@ -26,7 +26,6 @@ I value collaboration and clear communication, and I’m comfortable working in 
 <img
   src="https://api.barbodmsd.com/upload/file_1771613506602.png"
   width="70"
-  height="50"
   style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
   alt="Fastify logo"
 />
