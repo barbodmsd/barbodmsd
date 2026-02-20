@@ -24,7 +24,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 <img
-  src="https://api.barbodmsd.com/upload/file_1771594678101.png"
+  src="https://api.barbodmsd.com/upload/file_1771613506602.png"
   width="70"
   height="50"
   style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
@@ -42,7 +42,7 @@ I value collaboration and clear communication, and I’m comfortable working in 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)]()
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg"
+      src="https://api.barbodmsd.com/upload/file_1771613952826.png"
       width="50"
       height="60"
       style="padding: 5px; background: #242938; border-radius: 10px;box-sizing: border-box;"
