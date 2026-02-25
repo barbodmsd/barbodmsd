@@ -62,8 +62,6 @@ I value collaboration and clear communication, and I’m comfortable working in 
 ### Queue
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq)]()
 
-### Testing
-[![My Skills](https://skillicons.dev/icons?i=jest,mocha,chai)]()
 
 
 
