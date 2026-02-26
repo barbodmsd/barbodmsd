@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-I'm <b>Barbod Masoudi</b>, a <b>MERN Stack JavaScript Developer</b> with hands-on experience in both front-end and back-end development.
+I'm <b>Barbod Masoudi</b>, a <b>Software Enginner</b> with hands-on experience in both front-end and back-end development.
 </p>
 
 <h2 align="left">About Me</h2>
@@ -63,7 +63,13 @@ I value collaboration and clear communication, and I’m comfortable working in 
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq)]()
 
 ### Testing
-[![My Skills](https://skillicons.dev/icons?i=jest)]()
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Jest logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Mocha logo" />
+  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_chai.png?raw=true" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Chai logo" />
+  <!--
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Puppeteer logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Jasmine logo" />
+  -->
 
 
 ---
